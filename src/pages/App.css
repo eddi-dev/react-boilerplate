@@ -1,5 +1,4 @@
-.home-page {
+div, a, header, body {
     margin: 0;
     padding: 0;
-    display: flex;
 }

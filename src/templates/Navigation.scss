@@ -1,7 +1,15 @@
 #boilerplate-nav-container {
+    display: flex;
+    width: 100%;
+    background-color: aqua;
     .boilerplate-nav-inner {
         display: flex;
         align-items: center;
         margin: 0 auto;
+
+        a {
+            text-decoration: none;
+            padding: 0 20px;
+        }
     }
 }
